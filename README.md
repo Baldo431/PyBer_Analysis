@@ -41,6 +41,6 @@ Based on the results, there are some disparities between the different city type
 ### Recommendations:
 1. Reduce the amount of drivers in urban cities as there is an oversupply of them. Doing so may increase average fare per ride and per driver. 
 2. Increase the amount of drivers in suburban and rural cities as they may be under serviced. This could reduce average fares and potentially increase total fares as a larger supply could lead to more total rides.
-3. Reduce the cost per unit of distance as you move from urban to rural to redue aver fares and potentially increase total rides.
+3. Reduce the cost per unit of distance as you move from urban to rural to redue average fares and potentially increase total rides.
 
 

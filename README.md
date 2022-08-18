@@ -17,7 +17,7 @@ Use Python, Pandas, and Matplotlib to analyze how the data differs by city type 
 - Total fare revenue is highest in Urban cities, then Suburban and lastly Rural cities.
 <br />
 <br />
-<img align="center" src="analysis/Challenge_SummaryDF.png">
+<img align="center" src="analysis/Challenge_SummaryDF.PNG">
 <p align="center">
 Figure 1
 </p>
